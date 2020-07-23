@@ -55,7 +55,7 @@
     }
   },
   "variables": {
-    "siteName": "[concat(parameters('siteName'), '-site')]",
+    "siteName": "parameters('siteName')",
     "servicePlanName": "[concat('ASP-', parameters('siteName'))]",
     "sku": "[parameters('sku')]",
     "buildCommand": "[parameters('buildCommand')]",

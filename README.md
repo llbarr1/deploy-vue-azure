@@ -6,7 +6,7 @@ Azure Web App Template for Static Site Generator (e.g VuePress, Hugo)
 
 ### 1. Deploy to Azure
 
-<a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3a%2f%2fraw.githubusercontent.com%2fshibayan%2fwebapp-staticsite-template%2fmaster%2ftemplate%2fazuredeploy.json" target="_blank">
+<a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fllbarr1%2Fdeploy-vue-azure%2Fmaster%2Ftemplate%2Fazuredeploy.json" target="_blank">
   <img src="https://azuredeploy.net/deploybutton.png" />
 </a>
 
