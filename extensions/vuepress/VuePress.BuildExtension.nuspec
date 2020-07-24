@@ -1,13 +1,13 @@
 <?xml version="1.0"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
     <metadata>
-        <id>Vue.BuildExtension</id>
+        <id>VuePress.BuildExtension</id>
         <version>1.0.0</version>
         <authors>llbarr1</authors>
         <license type="expression">MIT</license>
-        <projectUrl>https://github.com/llbarr1/deploy-vue-azure/</projectUrl>
+        <projectUrl>https://github.com/llbarr1/deploy-vue-azure</projectUrl>
         <requireLicenseAcceptance>false</requireLicenseAcceptance>
-        <description>Vue/VuePress Build Extension for Azure Web Apps</description>
+        <description>VuePress Build Extension for Azure Web Apps</description>
         <tags>AzureSiteExtension</tags>
         <packageTypes>
             <packageType name="AzureSiteExtension" />
